@@ -1,9 +1,0 @@
-                <div style="margin-bottom: 15px; padding: 10px;">
-                    <label>Sistema de riego</label>
-                    <div style="background-color: rgb(245, 255, 218); border: 2px solid green; border-radius: 10px; padding: 20px; width: 100%; position: relative;">
-                        <select name="sistemariego">
-                        <option value="Auto"> Automatizado </option>
-                        <option value="Man"> Manual </option>
-                        <option value="Gota"> Por goteo </option>
-                        </select>
-                    </div>
